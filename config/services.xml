@@ -6,4 +6,4 @@
     <imports>
         <import resource="services/defaults.xml" />
     </imports>
-</container>
+</container> 
